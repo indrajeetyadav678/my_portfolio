@@ -22,6 +22,10 @@ const Skills = () => {
                 <div id="backskill1">SQL</div>
                 <div id="backskill1">MySQL</div>
              </div>
+             <h2>UI/UX design</h2><br/>
+             <div id="backend_skill">
+                <div id="backskill1">Figma</div>                
+             </div>
             </div>
         </>
     );
